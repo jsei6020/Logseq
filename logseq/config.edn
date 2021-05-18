@@ -73,4 +73,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :feature/enable-encryption? true
- :ui/show-brackets? true}
+ :ui/show-brackets? true
+ :date-formatter "yyyy年MM月dd日"}
